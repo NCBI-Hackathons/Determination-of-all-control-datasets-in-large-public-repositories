@@ -1,8 +1,3 @@
----
-slideOptions:
-  transition: slide
----
-
 # Putative GEO DataSet prediction
 
 Murat Ozturk, Shuhei Sugai, Sergiusz Wesolowski, Luiz Irber
