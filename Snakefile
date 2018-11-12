@@ -1,3 +1,6 @@
+rule all:
+    input: 'data/apis_series_summary.txt'
+
 rule download_geo:
     shell: """
         wget -P data/geo_all/series -m -nH --cut-dirs=2 ftp://ftp.ncbi.nlm.nih.gov/geo/series
